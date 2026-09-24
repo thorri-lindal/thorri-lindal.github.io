@@ -75,3 +75,6 @@ Vordansinn er hápunktur sögunnar og um leið hreinræktað sjónarspil í skil
 [^5]: Karl Marx, *Der achtzehnte Brumaire des Louis Bonaparte* (1852).
 [^6]: Friedrich Engels, formáli að 2. útgáfu *Der deutsche Bauernkrieg* (1870).
 [^7]: Guy Debord, *La Société du spectacle* (1967).
+
+---
+*Marxískar þýðingar: Snailgirl 🐌*
