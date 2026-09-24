@@ -1,4 +1,4 @@
-![[trash.png]]
+![[trash.jpeg]]
 
 A trash can sits in the middle of the street. Tongues of flame swell upwards, plastic sags, melts and blackens and a circle of pavement glows in orange and red in the evening light. There is nothing symbolic or metaphorical about this moment. This all takes place in the real world, it is simply a trash can burning and there are people around who feel its heat, see its glow and smell its sharp chemical smoke.
 
