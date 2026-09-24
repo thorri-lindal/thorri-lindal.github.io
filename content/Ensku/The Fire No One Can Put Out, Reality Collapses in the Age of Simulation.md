@@ -1,10 +1,10 @@
 ![[trash.png]]
 
-There is a trash can on fire in the middle of a street. Tongues of flame swell upwards, plastic sags, melts and blackens, and a circle of pavement glows in orange and red in the evening light. It is not a symbolic moment. It is not a metaphor. It is simply a trash can burning, and there are people around who feel its heat, see its glow, and smell its sharp chemical smoke. This takes place in the real world—the world of matter and physics, the world you can burn your hand on if you try to stamp it out.
+A trash can sits in the middle of the street. Tongues of flame swell upwards, plastic sags, melts and blackens and a circle of pavement glows in orange and red in the evening light. There is nothing symbolic or metaphorical about this moment. This all takes place in the real world, it is simply a trash can burning and there are people around who feel its heat, see its glow and smell its sharp chemical smoke.
 
 This world does not last very long.
 
-Someone films it. The moment it enters a phone, the trash can is set loose into the realm of signs. The caption under the clip claims a political group lit the trash can—maybe Antifa, maybe a nationalist militia, or perhaps a disenfranchised teenager. Soon enough the video circulates everywhere, from Reddit threads to Facebook groups, to WhatsApp chats, to news channels. In a matter of hours, the trash can fire is no longer just a fire—it becomes a story.
+Someone films it. The moment it enters a phone, the trash can is set loose into the realm of signs. The caption under the clip claims a political group lit the trash can. Maybe Antifa, maybe a nationalist militia or perhaps a disenfranchised teenager. Soon enough the video circulates everywhere, from Reddit threads to Facebook groups, to WhatsApp chats, to news channels. In a matter of hours, the trash can fire is no longer just a fire - it becomes a story.
 
 Jean Baudrillard, the philosopher of late reality, understood something uncomfortable: once a thing becomes a symbol (symbolic), it begins to detach from the world it came from. The trash can that once melted in the street is now a screen-sized icon that has different meanings to different people. It has escaped context, geography, and objecthood. It has become a sign, and the sign has become more influential than the thing itself.
 
