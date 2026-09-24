@@ -2,45 +2,36 @@
 
 A trash can sits in the middle of the street. Tongues of flame swell upwards, plastic sags, melts and blackens and a circle of pavement glows in orange and red in the evening light. There is nothing symbolic or metaphorical about this moment. This all takes place in the real world, it is simply a trash can burning and there are people around who feel its heat, see its glow and smell its sharp chemical smoke.
 
-This world does not last very long because someone films it. The moment it enters a phone the trash can is set loose into the realm of signs. The caption under the clip claims a political group lit the trash can. Maybe Antifa, maybe a nationalist militia or perhaps a disenfranchised teenager. Soon enough the video circulates everywhere from Reddit threads to Facebook groups to WhatsApp chats to news channels. Within a few hours the trashfire has a plot, suspects and a motive.
+This world does not last very long because someone films it. The moment it enters a phone the trash can is set loose into the realm of signs. The caption under the clip claims a political group lit the trash can. Maybe Antifa, maybe a nationalist militia or perhaps a disenfranchised teenager. Soon enough the video circulates everywhere from Reddit threads to Facebook groups to WhatsApp chats to news channels. Within a few hours the fire has suspects and a motive.
 
-Jean Baudrillard, the philosopher of late reality understood something uncomfortable: once a thing becomes a symbol it begins to detach from the world it came from. The trash can that once melted in the street is now a screen-sized icon that has different meanings to different people. It has escaped context, geography and objecthood. It has become a sign and the sign has become more influential than the thing itself.
+Jean Baudrillard saw where this leads. Once a thing becomes a symbol, it starts to come loose from the world it came from. The trash can that melted in the street is now a screen-sized icon, and it means something different to everyone who sees it. It has left its street and its town behind. It has become a sign, and the sign ends up having more influence than the trash can ever did.
 
+When we watch that burning trash can online, what we react to is the meaning the caption and the context have given it. Whether the caption is wrong, or the video is mislabeled or doctored, makes little difference. People feel something, draw a conclusion and come away a bit more sure of what they already thought. In that sense the burning trash can says a lot about the world we live in now, where images travel faster than facts and often take their place.
 
-Here’s the first shift, when we watch that burning trash can online, what we react to is the meaning the caption and the context have given it. Whether the caption is wrong, or the video mislabeled or doctored, makes little difference. People feel something, draw a conclusion and come away a bit more sure of what they already thought. In this way the burning trash can is a perfect symbol of the world we now live in. A world where images circulate faster than facts and often instead of facts.
+[Your example: a real clip you remember, where you saw it, what the caption said and how people reacted.]
 
-Now consider the second shift: the story of the fire takes on a life of its own. One side uses it as proof of disorder, lawlessness, or ideological decay. The other side uses it to point out media exaggeration, political opportunism, or manufactured outrage. The event becomes less important than the interpretation. The fire is just a placeholder for whatever you already believed. By now the actual fire has been out for a long time, and the idea of it is doing all the work.
+Then the story takes on a life of its own. One side holds it up as proof that society is falling apart. The other side holds it up as proof that the media will blow anything out of proportion. The fire itself hardly comes up. It has become a placeholder for whatever people already believed.
 
-That’s simulation. The reality of what happened in the street (who lit the match, who filmed it, how long it burned, what it was made of) has been replaced by something far more durable: the symbolic trash can burning in the imagination of millions of people who never stood near it. Once it’s been framed, posted, commented on, and shared—it becomes more real as an image than it ever was as an object.
+By now the actual fire has been out for a long time, and the idea of it is doing all the work. This is what Baudrillard means by simulation. What happened in the street (who lit it, how long it burned) has been replaced by something that lasts much longer: a trash can burning in the imagination of millions of people who never stood near it. Once it has been framed and shared enough times, it is more real as an image than it ever was as an object.
 
-This is what Baudrillard calls hyperreality—a state in which symbols, stories, and images no longer refer to anything that exists independent of them. They begin to generate their own truth. Their own logic. Their own consequences. The fire becomes more significant than the fire. It becomes a unit of cultural energy, absorbed into political rhetoric, emotional instinct, and online memory. The question of whether it happened drops away, and the argument moves on to what it means.
+Push this far enough and you get what he calls hyperreality, where images no longer refer to anything outside themselves. They start producing their own truths and their own consequences. The image of the fire ends up mattering more than the fire itself, and it gets absorbed into political talking points and people's gut reactions.
 
-We live now not in the world of facts—but in the world of framings. The burning trash can is just a convenient vessel. Tomorrow the symbol will be different, but the structure will be the same: something happens, something is filmed, something is explained, and then the explanation swallows the thing. The map doesn’t just represent the territory. It replaces it.
+The question of whether it happened drops away, and the argument moves on to what it means.
 
-The world still exists outside (of screens*)—but fewer and fewer of us live there. The real fire went out. But the one that lives in our minds burns longer, hotter, and without any possibility of being put out—because it no longer depends on oxygen. It depends only on belief.
+More and more, we live among framings of events rather than the events themselves. Tomorrow it will be a different trash can, but the pattern will be the same. Something happens, someone films it and explains it, and then the explanation swallows the thing. Baudrillard borrows a story from Borges here, about a map so detailed that it covers the whole empire. In his version, the map outlasts the land it was drawn from. The map doesn't just represent the territory. It replaces it.
 
----
+The world outside our screens still exists, but fewer of us spend our time there. The real fire went out in minutes. The one in people's heads is still going, and it doesn't need anything from the street to keep it lit.
 
-Step 1: The Real Event
-It starts simply enough.
+In Simulacra and Simulation, Baudrillard describes this slide in four stages, and the trash can fits them fairly neatly.
 
-A trash can is actually set on fire. Flames flicker, plastic melts, smoke rises, and a chemical smell fills the air. A real, physical event in the world. People nearby can feel the heat, smell the burning trash, and maybe act to put it out. In Baudrillard’s terms, this is the real—something that exists whether or not we represent it or care about it. For a brief moment, there is no story—just matter, combustion, and sensation.
+Step 1: The real event
+A trash can is set on fire. People nearby feel the heat and smell the plastic, and someone might go looking for an extinguisher. For a moment there is only the fire itself. In Baudrillard's scheme, this is the image as a faithful reflection of something real.
 
-Step 2: The Representation
-Somebody films it.
+Step 2: The representation
+Someone films it and posts it with a caption: "Antifa set a trash can on fire in town today." Now the fire comes with a label and a motive attached. The clip still shows something that happened, but through someone's lens. This is his second stage, where the image masks and distorts what really happened.
 
-They post a video with a caption:
-“Antifa set a trash can on fire in town today.” and now something changes. The fire has stopped being just fire—it’s a message, a symbol, packaged with a label and a motive. It may or may not be accurate, but that barely matters. The representation has begun. The event has been framed. The trash can fire has now become an object in discourse—a talking point. In Baudrillard’s terms, this is the image as distortion. It reflects something real, but selectively, through someone’s lens—political, emotional, or otherwise.
-
-Step 3: The Simulation
-The copy replaces the original 
-
-A day later, that burning trash can is now being debated online. Some people swear its / it’s proof of lawlessness. Others say it is fabricated. Still others don’t care who lit it—only that it confirms what they’ve believed all along. The fire continues spreading—but now only as an idea. The real, physical fire is long gone. What survives is the story of it, retold and reshaped by thousands of people who never saw it, never smelled it, never stood near it. This now becomes the simulation, where the copy replaces the original and the event has become secondary and all that matters now is how it circulates*. 
+Step 3: The simulation
+A day later the clip is being argued over by thousands of people who never saw the fire. Some say it proves lawlessness, some say it's fake, and some don't much care who lit it as long as it fits what they already think. The event has become secondary, and what matters is how it circulates. At this stage the image hides the fact that there is barely anything real left behind it.
 
 Step 4: Hyperreality
-Symbols no longer point to things that exist.
-
-This is where things get truly unsettling. Once the symbol of the trash can fire becomes powerful enough—once it’s been retweeted, memed, politicized, and mythologized—no one needs real trash can fires anymore. The idea of them is enough and the politicians can (will) say that antifa is burning down cities and news commentators can say that we are currently under attack and people wiill believe what is being said - this is becasue the simulated world of signs and symbols has become more real, more vivid, more emotionally impactful — and in all honesty more interesting than any physical street corner or burning trash can ever could be.
-
-This is hyperreality.
-A world where symbols don’t point to things that exist. They replace them and the burning trash can has becomes a kind of ghost: a flickering, smoldering heap of meaning untethered from the world.
+Once the symbol is strong enough, nobody needs real trash can fires anymore. Politicians can say antifa is burning down cities and commentators can say we are under attack, and people will believe it. The version on their screens is more vivid, and frankly more interesting, than any street corner. This is his final stage, where the image has no connection to anything real at all. The burning trash can has become a kind of ghost.
