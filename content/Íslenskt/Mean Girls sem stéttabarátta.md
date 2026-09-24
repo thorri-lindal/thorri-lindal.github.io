@@ -1,10 +1,13 @@
-![[regina.jpg]]
+# Mean Girls sem stéttabarátta
 
-Kvikmyndin "Mean Girls," eitt af klassísku unglinga gamanmyndunum frá 2004 virðist við fyrstu vera nokkuð stöðluð saga um félagsleg samskipti framhaldsskólafólks í bandaríkjunum. Það er auðvelt að vísa þessu meistaraverki kvikmyndagerðar á bug sem einfaldlega yfirborðskenndri háðsádeilu, mynd sem notar angist æsku, keppnissemi, ríg og plastkennda efnishyggju amerískra unglinga sem farartæki til að færa okkur - skulum segja - skáldlegt léttmeti. Hins vegar, ef við lýtum nær og skoðum betur byrjum við að rífa í sundur þennan 'veneer' og sjáum hvað hún er í raun og veru - djúpstæð og dulbúinn frásögn af stéttabaráttu sem er sögð innan sögusviðs úthverfamenntaskóla. 
+![Regina George](regina.jpg)
 
-í þessari mynd táknar [North Shore](https://meangirls.fandom.com/wiki/North_Shore_High_School) framhaldsskólinn smáheim samfélagsins (e. microcosm) þar sem flokkar/stétt (e. caste) (þeir mikilvægustu nefndir hér fyrir neðan) eru þjóðfélagsstéttirnar í samfélagi okkar. En ekki láta blekkjast að þetta séu stöðugar stéttir né hópar - línurnar á milli þeirra eru fljótandi og óskýrar, valdaójafnvægið mikið og breytilegt.
+Á yfirborðinu er *Mean Girls* (2004) ósköp venjuleg unglingagamanmynd. Ný stelpa byrjar í bandarískum framhaldsskóla, lendir í klónum vinsælu stelpnanna og lærir sína lexíu áður en lokadansinum lýkur. Það er auðvelt að afgreiða hana sem létta háðsádeilu á unglingaangist, samkeppni og plastkennda efnishyggju. En ef maður gefur henni aðeins meiri gaum en hún á kannski skilið blasir annað við: saga um stéttabaráttu, sögð í matsal úthverfaskóla.
 
-> [!Stéttir] 
+[North Shore](https://meangirls.fandom.com/wiki/North_Shore_High_School) er samfélagið í smækkaðri mynd. Í frægu atriði teiknar Janis kort af matsalnum fyrir Cady, og þar fáum við alla stéttaskiptinguna á einu blaði:
+
+> **Stéttir**
+>
 > - Actual Human Beings
 > - The Plastics, Anti-Plastics, Junior Plastics
 > - The Art Freaks
@@ -19,64 +22,56 @@ Kvikmyndin "Mean Girls," eitt af klassísku unglinga gamanmyndunum frá 2004 vir
 > - Unfriendly Black Hotties
 > - Girls Who Don't Eat Anything
 > - Varsity Jocks
-> 
 
-### The Plastics
+Þetta eru samt ekki fastar stéttir. Mörkin á milli þeirra eru óljós og fólk færist á milli, en valdið er alltaf ójafnt og alltaf á hreyfingu.
 
-Frá Marxísku sjónarhorni er **Regina George** betur þekkt sem býflugnadrottning "The Plastics", holdgervingur kapítalísku borgarastéttarinnar. Aðgerðir hennar enduróma kenningu Marx um umframvirði þar sem hún (asserts) yfirráð sín með því að nýta þá sem eru í kringum hana. Hún gerir þetta með ofurvaldi sínu (e. Hegemony), ekki með efnahagslegu fjármagni, heldur með félagslegu og táknrænu félagslegu auðmagni, til dæmis vinsældum, yfirburðar fegurð, óaðfinnanlegu tískuskyni sem hún dreifir á milli þegna sinna á sínum eigin forsendum. Þessu er öllu haldið uppi með skýrum erfðavenjum, þær stýra því hver fær inngöngu í þennan litla valdaborði sem ræður yfir 'vinsældarmarkaðinum' með skrifuðum og óskrifuðum reglum (Á miðvikudögum skaltu klæðast bleiku, fyrirverandi kærastar eru ekki til ***).
+## Plastið: Yfirstéttin
 
-Þetta ýtir undir þá hugmynd að ekki aðeins peningar tryggja völd - heldur er sá sem hefur áhrif á menningu og félagstengslin með raunverulegu völdin. Til hliðsjónar getum við litið á Gretchen Wieners sem kemur úr 'Toaster Strudel' heimsveldinu eins og hún nefnir það; líklegast ríkari fjölskyldu hennar Reginu. 
+Regina George, drottning Plastsins, er borgarastéttin holdi klædd. Hún á engin framleiðslutæki. Auður hennar er það sem Bourdieu kallaði félagslegt og táknrænt auðmagn[^1]: vinsældir, útlit og smekkur sem enginn annar í skólanum stenst samanburð við. Völd hennar hvíla ekki á valdbeitingu heldur á því sem Gramsci kallaði menningarlegt forræði[^2]. Hinir samþykkja leikreglurnar hennar og halda að þeir hafi valið þær sjálfir. Reglurnar eru líka skýrar: á miðvikudögum klæðumst við bleiku og fyrrverandi kærastar vinkvenna eru bannsvæði. Hver fær inngöngu ræðst af henni einni.
 
-Karen Smith á sama tíma er gott dæmi um einstakling sem græðir á kerfinu, en skilur það ekki né gagnrýnir - einfaldlega styrkir það með því að vera ómeðvitaður þáttakandi í því.
+Hér sést að peningar einir tryggja ekki völd. Gretchen Wieners er líklega ríkari en Regina, enda fann faðir hennar upp Toaster Strudel, en hún er samt í þjónustuhlutverki og betlar eftir samþykki. Það er sá sem stjórnar menningunni sem ræður.
 
-Hin alræmda 'Brunabók' (Burn Book) hennar Reginu er því ekki bara hin týpíska orðrómsmylla menntaskóla, heldur tæki hugmyndafræðilegs ríkiskerfis, sem ritstýrir og skilgreinir orðræðuna og ádeilu og styrkir stjórn hennar á þjóðfélagsskipan menntaskólans.
+Karen Smith er síðan dæmi um þann sem hagnast á kerfinu án þess að skilja það. Hún gagnrýnir ekkert og spyr einskis, og styrkir kerfið einmitt með því að vera ómeðvituð um það.
 
-### Cady Heron 
-Cady heron, nýliðinn frá Afríku, endurspeglar barnslegan skilning verkalýðsins á stéttabaráttu/nni. Þegar við kynnumst henni fyrst er hún óhlutdræg og ómeðvituð um hlutverk sitt í stóra samhengi samfélagsins og vill helst - á sinn eigin hátt - lifa utan þess. Þegar tíminn líður á sjáum við Cady hægt og rólega vitundarvakningu hennar á stéttardínamíkinni (e. class dynamics) sem ríkja. 
+Brunabókin er svo meira en slúðurbók. Hún er það sem Althusser kallaði hugmyndafræðilegt stjórntæki[^3]: hún ákveður hvað má segja um hvern og festir þannig í sessi hver stendur hvar í goggunarröðinni.
 
-### Janis Ian: Lumpenproletariat eða hin ósamræmda andófshreyfing
+## Cady Heron: Verkalýðurinn vaknar
 
-Ef að Regina George er andlit hinnar kapítalísku yfirstéttar og Cady Heron andlit fölsku meðvitundar verkalýðsins, þá getum við litið á **Janis Ian** sem bylting sem misstekst - einhver sem reynir að kollvarpa ríkjandi kerfi, en endanlega nær því ekki. Þetta er í takt við það sem Marx kallar **Lumpenproletariat** [^1], hina jaðarsettu, oft pólítískt sveiflukennda stéttina sem skortir skýra sýn á möguleikum sína til byltingar. 
+Cady ólst upp í Afríku í heimakennslu hjá foreldrum sínum, sem eru dýrafræðingar, og veit ekkert um reglur frumskógarins í North Shore. Í fyrstu er hún hlutlaus og vill helst standa utan við þetta allt. Hún er verkalýðurinn áður en hann verður meðvitaður um sjálfan sig: hluti af kerfinu án þess að vita það. Myndin fylgir henni svo hægt og rólega í átt að einhvers konar stéttarvitund, en leiðin þangað er ekki bein.
 
-Ég tek þó fram að þetta var ekki alltaf / einungis jaðarsettur hópur heldur einnig sá sem oft gat verið snúinn gegn byltingunni með rétti hvöt eins og þegar Napóleon III studdist við lumpenproletariat til þess að ná völdum. Mörgum þætti þetta kannski hörð gagnrýni gegn henni en ástæðan fyrir því að Janis fellur í þessa mynd er vegna þess að bylting hennar er ekki skýr né skipulögð. Hún vill einungis brjóta niður Regina í hefndarskyni en hefur enga raunverulega framtíðarsýn um hvað skal koma í staðinn. 
+## Innrásin
 
-Marx vísaði á bug lumpenproletariat sem óáreiðanlega og ólíklega byltingarleiðtoga sem væru líklegri til að vera meðfylgjandi valdstéttum frekar en að leiða sanna byltingu [^2]
+Janis fær Cady til að laumast inn í Plastið og grafa undan Reginu innan frá. Aðferðirnar eru nánast hernaðarlegar: undirróður, áróður og efnahernaður í formi Kälteen-stanganna sem eiga að grenna Reginu en gera þveröfugt.
 
-Janis ræður Cady sem einhvern til þess að laumast inn í hóp The Plastics til þess að valda óstöðuleika inann frá með notkun herkænnsku, efnavopnahernaðar, áróðursaðgerða, (skoða myndbandið). þrátt fyrir þetta lætur Cady undan völdum. Þetta endurspeglar hvernig byltingarhreyfingar endurtaka oft það sem þær reyna að taka í sundur, kerfið aðlagast en hrynur ekki, við sjáum það ekki fyrr en í enda myndarinnar að raunverulega leiðin til þess að valda byltingu er ekki með því að völsa* undir sig öll völd heldur endanlega gefa þau upp og dreifa á milli notenda** þess. [^6] Það mætti líta á þetta með ákveðnum fyrirvörum það sem Baudrillard kallar *'Simulacrum of resistance'*  þar sem andóf gegn kerfinu er ekki raunveruleg heldur er allri gagnrýni samþykkt og umbreytt af kerfinu til þess að styrkja sjálft sig.
+Hitt er annað mál að Regina tók Cady opnum örmum frá fyrsta degi. Það má lesa sem herkænsku. Betra er að gera nýliðann, hugsanlegan keppinaut, að vinkonu en að eignast í honum andstæðing. Yfirstéttin innlimar ógnina áður en hún verður að ógn.
 
-> [!NOTE] Dæmi um simulacrum
-> Pönk var upprunalega andóf gegn kapítalísma, neysluhyggju og samfélagslegum viðmiðum. Nú til dags selja stórfyrirtæki rifnar gallabuxur og litað hár sem módel af neyslu frekar en andstöðu.
-> 
-> Þetta leiðir til það sem margir myndu kalla mild, mjúk, samþykkt eða örugg uppreisn.
+Og það virkar. Í stað þess að steypa Reginu af stóli verður Cady smám saman að henni. Hún byrjar að ljúga, klæða sig eins og hún og hugsa eins og hún, og kerfið sem hún ætlaði að rífa niður stendur óhaggað með nýja drottningu. Byltingarhreyfingar sögunnar hafa oft lent í sömu gildru. Franska byltingin afnam konungsvaldið og endaði með keisara, og bolsévikar börðust gegn keisaranum en bjuggu til sína eigin elítu. Žižek talar um kerfisbundið ofbeldi[^4], ofbeldið sem felst í því að kerfið gengur sinn vanagang og lagar sig að hverri tilraun til að trufla það.
 
-### Simulacrum 
-Þegar Cady tekur við af Reginu sem býflugnardrottningin á Janis ekkert annað val en að afhjúpa kerfið allt - ekki sem afgerandi byltingarathöfn, heldur örvæntingafulla rástöfun gegn kerfi sem er ósnortið. Frekar en að rífa niður stigveldið þvingar hún einfaldlega áfram endurdreifingu valds. Þegar Janis áttar sig á þessu kúplar hún sig algjörlega út og endurspeglar kenningu Debord um sjónarspilið - þar sem sönn mótspyrna er ekki náð með yfirráðum, heldur með að hafna leiknum. Það má deila um það hvort að bylting Janis var misheppnuð, eða hvort þetta var eini raunverulegi sigur hennar - að flýja kerfið.
+## Janis Ian: Lumpenproletariat?
 
-Við getum litið á hliðstæðu úr sögunni sem hjálpartól, til dæmis Franska Byltinginn sem átti að enda konungsdæmi og kúgun þess í frakklandi leiddi á endanum til þess að Napóleon setti á stól nýtt keisaradæmi og einræðiskerfi.
+Ef Regina er borgarastéttin og Cady verkalýðurinn, hvar stendur þá Janis? Freistandi er að sjá í henni það sem Marx kallaði lumpenproletariat[^5]: jaðarhópinn utan skipulagðrar verkalýðsbaráttu, pólitískt óútreiknanlegan og auðvelt að snúa gegn málstaðnum. Marx lýsti því hvernig Lúðvík Napóleon, síðar Napóleon III, nýtti einmitt þennan hóp til að komast til valda, og Engels kallaði hann versta bandamann sem hugsast gæti[^6].
 
----
-### Innrás
-Innleiðing (raunar innrás) Cady í hóp hinna plastkenndu undir því yfirskyni að steypa Reginu George af stóli endurspeglar byltingu verkalýðsins, dæmigert fyrir sögulegar hreyfingar sem lenda í sömu gildru, sem dæmi má taka hvernig Sovétríkin börðust gegn arðráni konungsvaldsins en enduðu með því að búa til sitt eigið stéttaskiptakerfi með nýrri elítu.
+Það er kannski ósanngjarnt gagnvart Janis, en hún passar inn í myndina af einni ástæðu: uppreisn hennar hefur ekkert markmið annað en hefnd. Hún vill fella Reginu en hefur enga hugmynd um hvað eigi að koma í staðinn. Þegar hún áttar sig á því, of seint, að hún hefur ekki breytt neinu heldur bara skipt einni drottningu út fyrir aðra, dregur hún sig út úr leiknum.
 
-Það má einnig lýta á það að svoleiðis að þessi 'samúð' sem Regina sýndi nýju stelpunni hafi verið strategía og hafi nýtt sér félagsleg yfirráð sín til þess að bjóða nýju stelpunni, hinum utanaðkomandi, inn í hóp sinn til þess að koma í veg fyrir hugsanlega ógn hennar - betur vinur en uppreisnarmaður.
+Hér eru áhugaverð tengsl við Debord og situationistana, sem vöruðu við því sem þeir kölluðu *récupération*: að kerfið gleypi andófið og selji það aftur sem vöru.
 
-Hins vegar, í stað þess að steypa kapítalísku borgarastéttinni af stóli, lætur Cady tælast af illum gripum hennar og er endanlega gleypt af valdataflinu sem endar með því að hún viðheldur sama kúgandi samélagskerfinu sem hún ætlaði sér að taka í sundur. Þetta er það sem Slavoj Zizek kallar 'ofbeldi kerfisins' jafnvel í okkar öflugustu tilraunum til að raska ríkjandi kerfi aðlagast það eindaldlega, oft völdugra en áður.
+> [!NOTE]
+> **Dæmi um *récupération*:** Pönkið hófst sem andóf gegn neysluhyggju og viðteknum gildum. Í dag selja stórfyrirtæki rifnar gallabuxur og litað hár sem tísku. Uppreisnin varð að vöru: mild, örugg og samþykkt.
 
-### Samfélag sjónarspilsins
+Uppreisn Janis átti alltaf á hættu að fara sömu leið. Kannski var það eini raunverulegi sigur hennar að neita að taka þátt.
 
-Guy Debord (og Ziźek) lýtur á hugmyndafræði sem sjónarspil og það má segja að þessi hugmynd lifni við í Mean Girls. Vordansinn, þar sem Cady er krýnd drottning, er hin fullkomna birtingarmynd [^1]'Samfélag sjónarspilsins' eftir Guy Debord. Það er þar sem Cady áttar sig á uppgerð/tómleika vinsælda sinna og grípur til *áþreifanlegra* aðgerða gegn sjónarspilinu með því að brjóta krúnuna og endurúthluta bronum molunum - tákni um vald og forréttindi - til bekkjarfélaga sinna. Bending þessi sýnir okkur í gegnum hugmyndafræðina - hún ekki bara að viðurkenna falska meðvitund, heldur gera eitthvað í málinu!
+## Samfélag sjónarspilsins
 
-Mean Girls er óvænt, flókin myndlíking um stéttabaráttu og hugmyndafræðilega stjórn. Ádeiluleg framsetning framhaldskóla, vinsælda og valds endurspeglar samfélagslegt gangverk á lúmskan hátt en á sama tíma fullan af innsæi. Myndin sýnir okkur á snjallan hátt hvernig hugmyndafræðin síast inn í jafnvel það sem virðist við fyrstu sín saklausir partar eða þættir í samfélagi okkar og hvernig stéttarbarátta gegnir út fyrir hefðbundinn efnahagsmörk. Hins vegar skilur frásögnin okkur eftir með gagnýra spurningu - getum við nokkurn tíma raunverulega losnað úr þessu kerfi, eða er okkur ætlað að viðhalda þessum (structures), að eilífu föst í sjónarspili Plastsins.
+Vordansinn er hápunktur sögunnar og um leið hreinræktað sjónarspil í skilningi Debord[^7], þar sem ímyndin hefur tekið við af því sem hún á að tákna. Cady er krýnd drottning, nær toppnum sem hún hefur keppst að, og finnur að þar er ekkert. Hún brýtur plastkórónuna og kastar brotunum til bekkjarsystkina sinna. Táknið um völd og forréttindi er brotið og því deilt út. Hún lætur ekki nægja að sjá í gegnum fölsku meðvitundina heldur gerir eitthvað í málinu.
 
-Leiðrétting á valdahalla?
+Í lokin er North Shore orðinn friðsælli staður. En myndin skilur við mann með óþægilega spurningu. Í síðasta atriðinu gengur nýr hópur, Junior Plastics, inn á ganginn og Cady ímyndar sér að þær verði fyrir rútu. Kerfið er enn á sínum stað. Er hægt að brjótast út úr því, eða erum við dæmd til að endurskapa það aftur og aftur, föst í sjónarspili Plastsins?
 
 ---
-### Marxískar þýðingar:
-# **Snailgirl 🐌**
 
-
-[^1]: Karl Marx, *The Class Struggles in France, 1848–1850* (1850).  
-[^2]: Friedrich Engels, *The Peasant War in Germany* (1850).  
-[^3]: Slavoj Žižek, *Violence: Six Sideways Reflections* (2008).  
-[^4]: Guy Debord, *The Society of the Spectacle* (1967).  
-Bordieu
+[^1]: Pierre Bourdieu, *La Distinction: Critique sociale du jugement* (1979).
+[^2]: Antonio Gramsci, *Quaderni del carcere* (1929–1935).
+[^3]: Louis Althusser, „Idéologie et appareils idéologiques d'État“ (1970).
+[^4]: Slavoj Žižek, *Violence: Six Sideways Reflections* (2008).
+[^5]: Karl Marx, *Der achtzehnte Brumaire des Louis Bonaparte* (1852).
+[^6]: Friedrich Engels, formáli að 2. útgáfu *Der deutsche Bauernkrieg* (1870).
+[^7]: Guy Debord, *La Société du spectacle* (1967).
