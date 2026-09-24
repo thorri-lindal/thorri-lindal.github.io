@@ -8,7 +8,6 @@ Jean Baudrillard saw where this leads. Once a thing becomes a symbol, it starts 
 
 When we watch that burning trash can online, what we react to is the meaning the caption and the context have given it. Whether the caption is wrong, or the video is mislabeled or doctored, makes little difference. People feel something, draw a conclusion and come away a bit more sure of what they already thought. In that sense the burning trash can says a lot about the world we live in now, where images travel faster than facts and often take their place.
 
-[Your example: a real clip you remember, where you saw it, what the caption said and how people reacted.]
 
 Then the story takes on a life of its own. One side holds it up as proof that society is falling apart. The other side holds it up as proof that the media will blow anything out of proportion. The fire itself hardly comes up. It has become a placeholder for whatever people already believed.
 
